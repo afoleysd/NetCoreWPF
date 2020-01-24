@@ -1,0 +1,16 @@
+C:\Users\CtrlZ\source\repos\NetCoreTestApp\NetCoreTestApp\obj\Debug\netcoreapp3.1\NetCoreTestApp.csprojAssemblyReference.cache
+C:\Users\CtrlZ\source\repos\NetCoreTestApp\NetCoreTestApp\obj\Debug\netcoreapp3.1\MainWindow.baml
+C:\Users\CtrlZ\source\repos\NetCoreTestApp\NetCoreTestApp\obj\Debug\netcoreapp3.1\MainWindow.g.cs
+C:\Users\CtrlZ\source\repos\NetCoreTestApp\NetCoreTestApp\obj\Debug\netcoreapp3.1\App.g.cs
+C:\Users\CtrlZ\source\repos\NetCoreTestApp\NetCoreTestApp\obj\Debug\netcoreapp3.1\NetCoreTestApp_MarkupCompile.cache
+C:\Users\CtrlZ\source\repos\NetCoreTestApp\NetCoreTestApp\obj\Debug\netcoreapp3.1\NetCoreTestApp.g.resources
+C:\Users\CtrlZ\source\repos\NetCoreTestApp\NetCoreTestApp\obj\Debug\netcoreapp3.1\NetCoreTestApp.AssemblyInfoInputs.cache
+C:\Users\CtrlZ\source\repos\NetCoreTestApp\NetCoreTestApp\obj\Debug\netcoreapp3.1\NetCoreTestApp.AssemblyInfo.cs
+C:\Users\CtrlZ\source\repos\NetCoreTestApp\NetCoreTestApp\bin\Debug\netcoreapp3.1\NetCoreTestApp.exe
+C:\Users\CtrlZ\source\repos\NetCoreTestApp\NetCoreTestApp\bin\Debug\netcoreapp3.1\NetCoreTestApp.deps.json
+C:\Users\CtrlZ\source\repos\NetCoreTestApp\NetCoreTestApp\bin\Debug\netcoreapp3.1\NetCoreTestApp.runtimeconfig.json
+C:\Users\CtrlZ\source\repos\NetCoreTestApp\NetCoreTestApp\bin\Debug\netcoreapp3.1\NetCoreTestApp.runtimeconfig.dev.json
+C:\Users\CtrlZ\source\repos\NetCoreTestApp\NetCoreTestApp\bin\Debug\netcoreapp3.1\NetCoreTestApp.dll
+C:\Users\CtrlZ\source\repos\NetCoreTestApp\NetCoreTestApp\bin\Debug\netcoreapp3.1\NetCoreTestApp.pdb
+C:\Users\CtrlZ\source\repos\NetCoreTestApp\NetCoreTestApp\obj\Debug\netcoreapp3.1\NetCoreTestApp.dll
+C:\Users\CtrlZ\source\repos\NetCoreTestApp\NetCoreTestApp\obj\Debug\netcoreapp3.1\NetCoreTestApp.pdb
